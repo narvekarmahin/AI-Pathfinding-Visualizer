@@ -44,7 +44,7 @@ Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on 
 2. Navigate to the project directory:
 
 	Bash
-	cd AI-Pathfinding-Visualizer
+	cd AI Pathfinding Visualizer
 
 3. Install the required dependencies:
 
