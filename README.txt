@@ -39,7 +39,7 @@ Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on 
 
 1. Clone this repository to your local machine:
    	bash
-   	git clone [https://github.com/narvekarmahin/AI-Pathfinding-Visualizer.git](https://github.com/narvekarmahin/AI-Pathfinding-Visualizer.git)
+   	git clone [https://github.com/narvekarmahin/AI-Pathfinding-Visualizer.git]
 
 2. Navigate to the project directory:
 
